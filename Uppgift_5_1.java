@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 //Uppgift 5.1 sida 121
 public class Uppgift_5_1 {
-
+	// Denna uppgift skapades först av Johan. -Mvh Noel
 	public static void main(String[] args) {
 
 		int maxNumber = Integer.MIN_VALUE;
